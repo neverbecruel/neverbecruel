@@ -6,7 +6,9 @@
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
 - 💻 Estudante de Engenharia de Software - 2° semestre.
 - 👩‍💻 Atualmente estudando sobre Data Science.
-- 🤝 Procurando oportunidades para atuar em projetos de Data Science e/ou 
+- 🤝 Procurando oportunidades para atuar em projetos de Data Science e/ou
+
+[![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/177131156028784640)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=neverbecruel)
 
