@@ -14,8 +14,6 @@
       <img alt="Flask" src="https://img.shields.io/badge/Flask-100000?style=for-the-badge&logo=flask">
       <img alt="django" src="https://img.shields.io/badge/django-100000?style=for-the-badge&logo=django&logoColor=green">
       <img alt="C" src="https://img.shields.io/badge/C-100000?style=for-the-badge&logo=c">
-      <img alt="git" src="https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git">
-      <img alt="raspberrypi" src="https://img.shields.io/badge/raspberrypi-100000?style=for-the-badge&logo=raspberrypi&logoColor=red">
       <img alt="Windows" src="https://img.shields.io/badge/windows-100000?style=for-the-badge&logo=windows&logoColor=blue">
       <img alt="Git" src="https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git">
       <img alt="GitHub" src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github">
