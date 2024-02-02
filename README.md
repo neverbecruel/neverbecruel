@@ -4,7 +4,7 @@
 
 - 💻 Estudante de Engenharia de Software - 2° semestre.
 - 👩‍💻 Atualmente estudando sobre Data Science.
-- 🤝 Procurando oportunidades para atuar em projetos de Data Science e/ou
+- 🤝 Procurando oportunidades
 
 
 # Tecnologias
